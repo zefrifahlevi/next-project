@@ -24,16 +24,16 @@ const Valorant = () => {
               <h2 className="title">Zefri Fahlevi</h2>
               <div className="desc">
                 <p>
-                  Introducing Zee, codenamed <span>zeemarimo</span>, the newest
+                  Introducing Zef, codenamed <span>zefrifahlevi</span>, the newest
                   Valorant Agent from <span>Indonesia</span> specializing in
-                  software development. Zee is a junior software engineer with a
+                  software development. Zef is a junior software engineer with a
                   passion for creating functional technology. He is a highly
                   skilled agent with a diverse skill set and a keen eye for
                   detail.
                 </p>
                 <p>
                   {" "}
-                  Zee's expertise in coding allows him to work with any
+                  Zef's expertise in coding allows him to work with any
                   programming language and his artistic skills make him an
                   exceptional Frontend engineer. His signature ability is{" "}
                   <span>Frontend Web Development</span>, which allows him to
@@ -78,7 +78,7 @@ const Valorant = () => {
                           </tr>
                           <tr>
                             <td>ROLE</td>
-                            <td>Engineer</td>
+                            <td>Frontend</td>
                           </tr>
                         </tbody>
                       </table>
@@ -96,7 +96,7 @@ const Valorant = () => {
                     </div>
                     <div className="col">
                       <a
-                        href="https://github.com/zeinirfansyah"
+                        href="https://github.com/zefrifahlevi"
                         target="_blank"
                       >
                         <img src={githubicon} alt="" className="icon github" />
@@ -104,7 +104,7 @@ const Valorant = () => {
                     </div>
                     <div className="col">
                       <a
-                        href="https://www.instagram.com/zeemarimo/"
+                        href="https://www.instagram.com/zefrifahlevi/"
                         target="_blank"
                       >
                         <img
